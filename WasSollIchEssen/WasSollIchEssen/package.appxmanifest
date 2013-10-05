@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="8826e54c-46f2-481d-8077-227ce9778e4d" Version="1.0.0.0" Publisher="CN=Tobias" />
+  <Properties>
+    <DisplayName>WasSollIchEssen</DisplayName>
+    <PublisherDisplayName>Tobias</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.0</OSMinVersion>
+    <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="Read To Eat" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="Auswahl an Speisekarten des StW Augsburg" ForegroundText="light" BackgroundColor="#ff9400">
+        <DefaultTile ShowName="allLogos" ShortName="Hunger?" />
+        <SplashScreen Image="images\splashscreen.png" BackgroundColor="#ff9400" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

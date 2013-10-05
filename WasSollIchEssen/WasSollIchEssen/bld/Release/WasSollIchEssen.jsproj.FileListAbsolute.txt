@@ -1,0 +1,13 @@
+C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bin\Release\resources.pri
+C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bin\Release\AppxManifest.xml
+C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bin\Release\WasSollIchEssen.build.appxrecipe
+C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bld\Release\priconfig.xml.intermediate
+C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bld\Release\layout.resfiles.intermediate
+C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bld\Release\resources.resfiles.intermediate
+C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bld\Release\pri.resfiles.intermediate
+C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bld\Release\priconfig.xml
+C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bld\Release\layout.resfiles
+C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bld\Release\resources.resfiles
+C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bld\Release\pri.resfiles
+C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bld\Release\LanguageQualifiers.txt
+C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bld\Release\ProjectArchitectures.txt

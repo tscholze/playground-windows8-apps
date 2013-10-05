@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TOBBO-WIN8</Machine>
+    <WindowsUser>Tobias</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>F6555A518BB57D46AC02D68F0FFB43B77877AC55371DCC003E0A25AA1AEC50C5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8826e54c-46f2-481d-8077-227ce9778e4d_1.0.0.0_neutral__q75xv5vbwfrnt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8826e54c-46f2-481d-8077-227ce9778e4d_q75xv5vbwfrnt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8826e54c-46f2-481d-8077-227ce9778e4d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Tobias</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-19T19:28:54.278</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-06-02T17:27:49.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\pages\items\items.css">
+      <PackagePath>pages\items\items.css</PackagePath>
+      <Modified>2012-06-01T21:32:57.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\pages\split\split.css">
+      <PackagePath>pages\split\split.css</PackagePath>
+      <Modified>2012-06-03T20:05:23.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-06-02T19:19:29.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\images\Mensa_H.png">
+      <PackagePath>images\Mensa_H.png</PackagePath>
+      <Modified>2012-06-02T12:45:58.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\images\Mensa_M.png">
+      <PackagePath>images\Mensa_M.png</PackagePath>
+      <Modified>2012-06-02T12:46:35.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\images\Mensa_Uni.png">
+      <PackagePath>images\Mensa_Uni.png</PackagePath>
+      <Modified>2012-06-02T12:52:28.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-06-02T19:15:19.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-06-02T19:19:07.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-06-02T19:12:05.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2012-07-19T19:35:05.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-06-01T20:57:11.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2012-06-01T20:57:11.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\pages\items\items.js">
+      <PackagePath>pages\items\items.js</PackagePath>
+      <Modified>2012-07-19T19:31:23.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\pages\split\split.js">
+      <PackagePath>pages\split\split.js</PackagePath>
+      <Modified>2012-06-01T22:18:30.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\pages\items\items.html">
+      <PackagePath>pages\items\items.html</PackagePath>
+      <Modified>2012-07-19T19:12:10.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\pages\split\split.html">
+      <PackagePath>pages\split\split.html</PackagePath>
+      <Modified>2012-06-02T19:17:05.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-06-01T20:57:11.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\WasSollIchEssen\WasSollIchEssen\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-07-19T19:28:54.122</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0.RC\1.0\">
+      <Name>Microsoft.WinJS.1.0.RC</Name>
+      <Version>1.0.8377.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0.RC, MinVersion=1.0.8377.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0.RC\1.0\Microsoft.WinJS.1.0.RC.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

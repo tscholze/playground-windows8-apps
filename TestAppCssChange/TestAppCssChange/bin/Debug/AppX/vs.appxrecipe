@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TOBBO-WIN8</Machine>
+    <WindowsUser>Tobias</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>8949AFB9AEBB5ADB5ED6816B5634A0510E4CACB87F013F62009E8009B00C44AD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a2807b73-8f13-4fc2-b4ea-24df1a5fc28f_1.0.0.0_neutral__q75xv5vbwfrnt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a2807b73-8f13-4fc2-b4ea-24df1a5fc28f_q75xv5vbwfrnt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a2807b73-8f13-4fc2-b4ea-24df1a5fc28f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Tobias</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\TestAppCssChange\TestAppCssChange\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-22T12:31:20.257</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\TestAppCssChange\TestAppCssChange\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-07-22T12:58:51.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\TestAppCssChange\TestAppCssChange\images\img1.png">
+      <PackagePath>images\img1.png</PackagePath>
+      <Modified>2012-07-22T12:24:56.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\TestAppCssChange\TestAppCssChange\images\img2.png">
+      <PackagePath>images\img2.png</PackagePath>
+      <Modified>2012-07-22T12:26:44.433</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\TestAppCssChange\TestAppCssChange\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T16:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\TestAppCssChange\TestAppCssChange\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T16:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\TestAppCssChange\TestAppCssChange\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T16:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\TestAppCssChange\TestAppCssChange\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T16:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\TestAppCssChange\TestAppCssChange\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-07-22T12:50:47.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\TestAppCssChange\TestAppCssChange\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-07-22T13:01:15.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tobias\Documents\Visual Studio 2012\Projects\TestAppCssChange\TestAppCssChange\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-07-22T12:31:19.976</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0.RC\1.0\">
+      <Name>Microsoft.WinJS.1.0.RC</Name>
+      <Version>1.0.8377.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0.RC, MinVersion=1.0.8377.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0.RC\1.0\Microsoft.WinJS.1.0.RC.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
